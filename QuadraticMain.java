@@ -41,6 +41,8 @@ class Quadratic
 		r2 = Math.sqrt(-d)/(2*a);
 		System.out.println("Root1 = " +r1+ " +i" +r2);
 		System.out.println("Root1 =" +r1+ " -i" +r2);
+		System.out.println("Student name: Shilpa K M");
+		System.out.println("USN number: 2023BMS02617");
 	}
 }
 }
